@@ -24,4 +24,4 @@ If you wish to perform data preprocessing, you can run the script in the Jupyter
 ``python main.py``
 
 ## Contact details
-If you have any questions, please contact shixinyuan217@aliyun.com.
+If you have any questions, please contact shixinyuan217@aliyun.com and minwenwen@ynu.edu.cn.
