@@ -1,4 +1,4 @@
-# Imputing Microbiome Data using Conditional Diffusion Generative Models
+# mbDiffusion: Deep Conditional Diffusion Generative Modeling for Missing Microbiome Data Recovery
 
 ## Overview
 In this paper, we proposed a masked conditional diffusion model with pre-trained variational autoencoder (VAE) for microbiome data imputation. At the implementation level, our approach integrates multiple heterogeneous cancer microbiome datasets through a pre-training and fine-tuning strategy, enabling effective cross-dataset information exchange. The framework combines observable data with multimodal metadata to condition the diffusion model throughout the denoising process. Experimental results across three cancer types (STAD, COAD, HNSC) from two tissue origins (solid/blood) demonstrate that both transfer learning and enriched conditioning contribute to significant improvements in model performance and stability.
